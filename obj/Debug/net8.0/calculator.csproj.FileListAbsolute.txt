@@ -1,0 +1,14 @@
+/Users/amandacopa/source/Teachers exercises/calculator/bin/Debug/net8.0/calculator
+/Users/amandacopa/source/Teachers exercises/calculator/bin/Debug/net8.0/calculator.deps.json
+/Users/amandacopa/source/Teachers exercises/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/Users/amandacopa/source/Teachers exercises/calculator/bin/Debug/net8.0/calculator.dll
+/Users/amandacopa/source/Teachers exercises/calculator/bin/Debug/net8.0/calculator.pdb
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.dll
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/refint/calculator.dll
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.pdb
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/Users/amandacopa/source/Teachers exercises/calculator/obj/Debug/net8.0/ref/calculator.dll
