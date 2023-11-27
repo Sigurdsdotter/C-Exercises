@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = calculator
-build_property.ProjectDir = /Users/amandacopa/source/Teachers exercises/calculator/
+build_property.ProjectDir = C:\Repo\CS\Teachers-exercises\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amandacopa/source/Teachers exercises/calculator/calculator.csproj": {}
+    "C:\\Repo\\CS\\Teachers-exercises\\calculator.csproj": {}
   },
   "projects": {
-    "/Users/amandacopa/source/Teachers exercises/calculator/calculator.csproj": {
+    "C:\\Repo\\CS\\Teachers-exercises\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amandacopa/source/Teachers exercises/calculator/calculator.csproj",
+        "projectUniqueName": "C:\\Repo\\CS\\Teachers-exercises\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "/Users/amandacopa/source/Teachers exercises/calculator/calculator.csproj",
-        "packagesPath": "/Users/amandacopa/.nuget/packages/",
-        "outputPath": "/Users/amandacopa/source/Teachers exercises/calculator/obj/",
+        "projectPath": "C:\\Repo\\CS\\Teachers-exercises\\calculator.csproj",
+        "packagesPath": "C:\\Users\\Sigurdsdotter\\.nuget\\packages\\",
+        "outputPath": "C:\\Repo\\CS\\Teachers-exercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/amandacopa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Sigurdsdotter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

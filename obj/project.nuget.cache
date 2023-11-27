@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXLwFyF72f9gqchCz4SQMu6WFiBycnwP9ccQFZy/lw33F1DHbw3tljO5sEwIysW4S7VVgoVolaRWwSCANwXBUw==",
+  "dgSpecHash": "E2vOnN8ESr/xChOen6/5X+b+zjaST1J+1UzYljHoqyYllcZ3CeC8dNofejNXt9x/2ISoAdNocenBzFT29LZWTA==",
   "success": true,
-  "projectFilePath": "/Users/amandacopa/source/Teachers exercises/calculator/calculator.csproj",
+  "projectFilePath": "C:\\Repo\\CS\\Teachers-exercises\\calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
