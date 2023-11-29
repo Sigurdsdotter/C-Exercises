@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-
+/*
             Console.WriteLine("Enter the first number: ");
             double number1 = double.Parse(Console.ReadLine());
 
@@ -50,6 +50,30 @@ namespace Calculator
                     Console.WriteLine("Write 1, 2, 3, or 4 please");
                     break;
             }
+*/
+          
+            string ifFound = "The substring exists in the string.";
+
+            Console.WriteLine("Check wether a given substring is present in the given string:");
+            
+            string originalTxt = "Rock'n roll is good for your soul";
+            Console.WriteLine(originalTxt);
+
+            Console.WriteLine("Input the substring to search: ");
+            string testTxt = Console.ReadLine();
+            
+                int index = originalTxt.IndexOf(testTxt);
+
+                    if (index >= 0)
+                    {
+                        Console.WriteLine(ifFound);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Sorry, you need rock'n roll");
+                    }
+
+
         }
     }
 }
