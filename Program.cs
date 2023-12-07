@@ -122,26 +122,9 @@ namespace Calculator
             }
             else
             {
-                Console.WriteLine("Don´t type higher than 8, please");
+                Console.WriteLine("Don't type higher than 8, please");
                 return 0;
             }
-
-            /*
-            while (!int.TryParse(Console.ReadLine(), out choiceF) || choiceF < 0 || choiceF > 8)
-            {
-                Console.WriteLine("Invalid input. Please enter a non-negative integer up to 8.");
-            }
-
-            long result = Fibonacci(choiceF);
-
-            Console.WriteLine($"The Fibonacci number of {choiceF} is: {result}");
-            */
-
-
-
-
-
-
 
 
         }
